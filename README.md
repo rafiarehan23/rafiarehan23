@@ -1,5 +1,12 @@
 ## Hi there 👋
+# 💫 Hi 👋, I'm Rafia Rehan
+**A passionate  Computer Science Engineer **
 
+Email Me 👉 ✉️ **rafiarehan23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
+
+## 🔗 I am a Student. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafia__rehan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafia-Rehan-b372a1325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafiarehan23@gmail.com) 
